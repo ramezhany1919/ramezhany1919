@@ -56,5 +56,5 @@ A Java-based custom database engine with indexing.
 I'm always open to networking, collaboration, or discussing tech!  
 Feel free to reach out:
 - 📧 Email: [ramezhany986@gmail.com](mailto:ramez.hany@example.com)
-- 💼 LinkedIn: [www.linkedin.com/in/ramez-hany-](www.linkedin.com/in/ramez-hany-)
+- 💼 LinkedIn: [linkedin.com/in/ramez-hany-](https://www.linkedin.com/in/ramez-hany-)
 
