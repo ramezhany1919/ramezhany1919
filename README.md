@@ -53,8 +53,8 @@ An adventure 3D game where players explore an ancient temple and a mystical fore
 A Java-based custom database engine with indexing.
 **Tech** Java, Maven, MySQL
 ## 📬 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramezhany986@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramez-hany-1688b7240)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramezhany1919)
+I'm always open to networking, collaboration, or discussing tech!  
+Feel free to reach out:
+- 📧 Email: [ramezhany986@gmail.com](mailto:ramez.hany@example.com)
+- 💼 LinkedIn: [www.linkedin.com/in/ramez-hany-](www.linkedin.com/in/ramez-hany-)
 
