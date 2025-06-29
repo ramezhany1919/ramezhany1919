@@ -30,27 +30,27 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)|
 
 ## 🚀 Projects
-### 🧠  Generating Human Faces with DCGAN
-A deep learning project focused on generating realistic 64x64 human faces using a Deep Convolutional GAN (DCGAN) trained on the CelebA and Face-Lite datasets.  
-📈 Achieved 100% (A+) by implementing a wide range of architectural enhancements and training optimizations to significantly improve image quality and stability.  
+### 🧠  Generating Human Faces with DCGAN (Bachelor Thesis Project)
+A deep learning project focused on generating realistic 64x64 human faces using a Deep Convolutional GAN (DCGAN) trained on the CelebA and Face-Lite datasets. <br> 
+📈 Achieved 100% (A+) by implementing a wide range of architectural enhancements and training optimizations to significantly improve image quality and stability.  <br>
 **Tech:** TensorFlow, Keras, Python, GANs  
 ### 💻 Tomasulo Algorithm Simulator
-A CPU instruction scheduling simulator that visualizes the Tomasulo Algorithm with JavaFX. Designed to handle instruction-level parallelism and data hazards.  
+A CPU instruction scheduling simulator that visualizes the Tomasulo Algorithm with JavaFX. Designed to handle instruction-level parallelism and data hazards. <br>
 **Tech:** Java, JavaFX  
 ### 🏠 Smart Home Automation System
-An IoT system using the Arduino Nano RP2040 to control home appliances with sensor inputs, remote control, and real-time feedback via a web interface.  
+An IoT system using the Arduino Nano RP2040 to control home appliances with sensor inputs, remote control, and real-time feedback via a web interface. <br>
 **Tech:** Embedded C, Arduino, FreeRTOS, Web Server  
 ### 🌍 Full-Stack Travel Website (MERN Stack)
 Built a fully functional travel agency platform. Focused on API design, database structure, and backend logic. <br>
 **Tech**: MongoDB, Express.js, React, Node.js
 ### 🎮 The Last of Us – JavaFX Game
-Fully Functional 2D game using Java and JavaFX, based on OOP and data structures
+Fully Functional 2D game using Java and JavaFX, based on OOP and data structures <br>
 **Tech** Java,JavaFx
 ### 🎮 Mystic Explorer - Game
-An adventure 3D game where players explore an ancient temple and a mystical forest, solving puzzles and collecting treasures. Features both first-person and third-person perspectives, interactive animations, and dynamic lighting.
+An adventure 3D game where players explore an ancient temple and a mystical forest, solving puzzles and collecting treasures. Features both first-person and third-person perspectives, interactive animations, and dynamic lighting.<br>
 **Tech** C++, OpenGL, GLFW, Assimp
 ### 🤖 Database Engine 
-A Java-based custom database engine with indexing.
+A Java-based custom database engine with indexing.<br>
 **Tech** Java, Maven, MySQL
 ## 📬 Contact Me
 I'm always open to networking, collaboration, or discussing tech!  
