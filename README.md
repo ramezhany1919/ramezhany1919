@@ -1,7 +1,7 @@
 ## 👋 Welcome To My GitHub Profile, I'm Ramez Hany
 
 🎓 Computer Engineering student at the German University in Cairo (GUC) <br>
-💻 Currently a Back-End Engineering Intern at Siemens Digital Industries <br> 
+💻 Currently a Back-End Engineer Intern at Siemens Digital Industries <br> 
 🤖 Passionate about Backend Development, Artificial Intelligence & Deep Learning  
 🔧 Interned at Edita Food and Al Ahram Beverages, worked on automation and SQL integrations  
 🌱 Always learning – Continuously exploring emerging technologies and transforming ideas into practical solutions.
